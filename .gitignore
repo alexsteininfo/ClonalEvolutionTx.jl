@@ -1,0 +1,7 @@
+Manifest.toml
+*/Manifest.toml
+docs/build/
+.development/
+.claude
+.superpowers
+docs/

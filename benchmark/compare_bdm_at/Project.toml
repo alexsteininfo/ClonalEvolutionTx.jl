@@ -1,0 +1,14 @@
+[deps]
+BirthDeathMutation_AT = "7b855ee6-6887-412f-a571-26d20a5a92d7"
+ClonalEvolutionTx = "99c3d799-1854-4804-8f69-a8a0bf183ff0"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[sources]
+BirthDeathMutation_AT = {path = "/Users/alexanderstein/Documents/GitHub/BirthDeatMutation_AT.jl"}
+ClonalEvolutionTx = {path = "../.."}
+
+[compat]
+HypothesisTests = "0.11"
